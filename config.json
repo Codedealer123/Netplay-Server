@@ -1,5 +1,5 @@
 {
-    "passwordforserver" : "mypassword",
-    "TWILIO_ACCOUNT_SID" : "",
-    "TWILIO_AUTH_TOKEN" : ""
+    "passwordforserver" : "SchoolGamers",
+    "TWILIO_ACCOUNT_SID" : "ACf4b8a4ee39121208cac5176c8a75522d",
+    "TWILIO_AUTH_TOKEN" : "bf00f9655a42ce7bbf10984588ac65c0"
 }
